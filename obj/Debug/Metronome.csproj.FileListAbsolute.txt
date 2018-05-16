@@ -1,0 +1,14 @@
+C:\Users\gerlacd\OneDrive\Documents\Metronome\bin\Debug\Metronome.exe.config
+C:\Users\gerlacd\OneDrive\Documents\Metronome\bin\Debug\Metronome.exe
+C:\Users\gerlacd\OneDrive\Documents\Metronome\bin\Debug\Metronome.pdb
+C:\Users\gerlacd\OneDrive\Documents\Metronome\obj\Debug\Metronome.csprojResolveAssemblyReference.cache
+C:\Users\gerlacd\OneDrive\Documents\Metronome\obj\Debug\MainWindow.g.cs
+C:\Users\gerlacd\OneDrive\Documents\Metronome\obj\Debug\App.g.cs
+C:\Users\gerlacd\OneDrive\Documents\Metronome\obj\Debug\Metronome_MarkupCompile.cache
+C:\Users\gerlacd\OneDrive\Documents\Metronome\obj\Debug\Metronome_MarkupCompile.lref
+C:\Users\gerlacd\OneDrive\Documents\Metronome\obj\Debug\MainWindow.baml
+C:\Users\gerlacd\OneDrive\Documents\Metronome\obj\Debug\Metronome.g.resources
+C:\Users\gerlacd\OneDrive\Documents\Metronome\obj\Debug\Metronome.Properties.Resources.resources
+C:\Users\gerlacd\OneDrive\Documents\Metronome\obj\Debug\Metronome.csproj.GenerateResource.Cache
+C:\Users\gerlacd\OneDrive\Documents\Metronome\obj\Debug\Metronome.exe
+C:\Users\gerlacd\OneDrive\Documents\Metronome\obj\Debug\Metronome.pdb
